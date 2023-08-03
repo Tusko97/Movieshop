@@ -1,5 +1,5 @@
 class MoviesController < ApplicationController
-  # before_action :authorize
+#   before_action :authorize
 
    # GET /movies
    def index
